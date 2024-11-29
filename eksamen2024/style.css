@@ -1,0 +1,52 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Logo */
+.nav-list li.logo h2{
+    font-size: 30px;
+}
+.nav-list{
+    margin-top: 30px;
+}
+
+/* Ikoner */
+.nav-list, .header-icons{
+    list-style: none;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.nav-list li a{
+    text-decoration: underline;
+}
+/* Søkefelt */
+
+.search-bar {
+    border: 1px solid #666;
+}
+
+/* Populære produkter */
+.product-card, img{
+    width: 550px;
+    height: 550px;
+    padding: 20px;
+    
+} 
+
+
+.category-item1, .category-item2, .category-item3, .category-item4, .category-item5{
+    border: 2px solid #666;
+    width: 550px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+} 
+
+
+
+.category-item1 img, .category-item2 img,.category-item3 img,.category-item4 img,.category-item5 img {
+    width: 500px;
+    height: 500px;
+} 
+
